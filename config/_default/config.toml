@@ -4,8 +4,8 @@
 # https://cristinafsanz.github.io/melies-hugo/.
 theme = "blowfish"
 # baseURL = "http://proyectopy.duckdns.org"
-# baseURL = "https://proyectopy.github.io/proyectopy.hugo/"
-baseURL= "http://192.168.1.105/"
+baseURL = "https://proyectopy.github.io"
+# baseURL= "http://192.168.1.105/"
 
 defaultContentLanguage = "es"
 

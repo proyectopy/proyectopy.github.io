@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legals on ProyectoPy</title>
+    <link>https://proyectopy.github.io/legal/</link>
+    <description>Recent content in Legals on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 19 Nov 2022 21:12:42 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aviso legal</title>
+      <link>https://proyectopy.github.io/legal/aviso-legal/</link>
+      <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/aviso-legal/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el B.O.E.
+Datos Identicativos&gt; Datos Identicativos # En cumplimiento con el deber de información recogido en artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, a continuación se reflejan los siguientes datos:</description>
+    </item>
+    
+    <item>
+      <title>Licencia MIT</title>
+      <link>https://proyectopy.github.io/legal/licencia-mit/</link>
+      <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/licencia-mit/</guid>
+      <description>Nosotros la usamos&gt; Nosotros la usamos # Licencia MIT, puedes descargar una copia en pdf desde este enlace..
+2022 ProyectoPy
+Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el &amp;ldquo;Software&amp;rdquo;), para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión , publicar, distribuir, otorgar sublicencias y/o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:</description>
+    </item>
+    
+    <item>
+      <title>Este sitio usa cookies</title>
+      <link>https://proyectopy.github.io/legal/este-sitio-usa-cookies/</link>
+      <pubDate>Sat, 19 Nov 2022 21:11:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/este-sitio-usa-cookies/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el B.O.E.
+¿Que són las cookies?&gt; ¿Que són las cookies? # Cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web.</description>
+    </item>
+    
+    <item>
+      <title>Politica de Privacidad</title>
+      <link>https://proyectopy.github.io/legal/politica-de-privacidad/</link>
+      <pubDate>Sat, 19 Nov 2022 21:11:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/politica-de-privacidad/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el sitio de la A.E.P.D.
+Regulaciones legales&gt; Regulaciones legales # La presente web da cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).</description>
+    </item>
+    
+  </channel>
+</rss>

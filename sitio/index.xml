@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenido a ProyectoPi! on ProyectoPy</title>
+    <link>https://proyectopy.github.io/</link>
+    <description>Recent content in Bienvenido a ProyectoPi! on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Nov 2022 15:03:56 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTo | Parte 2 | Primeras configuraciones</title>
+      <link>https://proyectopy.github.io/how/raspberry-primeras-configuraciones/</link>
+      <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/how/raspberry-primeras-configuraciones/</guid>
+      <description>Ya tienes una tarjetita metida en la raspberry, y deseando empezar, pero faltan algunos pasos, asi que no te desesperes, que todo llega.
+Puedes ver todos los articulos que componen esta serie aquí.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/how/raspberry-primeras-configuraciones/featured_how.config.jpg" />
+    </item>
+    
+    <item>
+      <title>HowTo | Parte 1 | Sistema operativo</title>
+      <link>https://proyectopy.github.io/how/instalar-el-sistema-operativo/</link>
+      <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/how/instalar-el-sistema-operativo/</guid>
+      <description>Instalando Pi OS Lite&gt; Instalando Pi OS Lite # Ya sabemos lo que es una Raspberry y tambien el equipamiento minimo para hacela funcionar, pero como todos estos aparatos no solo basta con enchufar a la corriente, tenemos que instaurarles un cerebro, lo que tecnicamente se llama instalarles el sistema operaticvo, hay muchas formas pero intentaré hacerlo de la forma más sencilla que yo se.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/how/instalar-el-sistema-operativo/featured_how_SO.jpg" />
+    </item>
+    
+    <item>
+      <title>Aviso legal</title>
+      <link>https://proyectopy.github.io/legal/aviso-legal/</link>
+      <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/aviso-legal/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el B.O.E.
+Datos Identicativos&gt; Datos Identicativos # En cumplimiento con el deber de información recogido en artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, a continuación se reflejan los siguientes datos:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/aviso-legal/featured_legal.png" />
+    </item>
+    
+    <item>
+      <title>Licencia MIT</title>
+      <link>https://proyectopy.github.io/legal/licencia-mit/</link>
+      <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/licencia-mit/</guid>
+      <description>Nosotros la usamos&gt; Nosotros la usamos # Licencia MIT, puedes descargar una copia en pdf desde este enlace..
+2022 ProyectoPy
+Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el &amp;ldquo;Software&amp;rdquo;), para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión , publicar, distribuir, otorgar sublicencias y/o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/licencia-mit/featured_license.png" />
+    </item>
+    
+    <item>
+      <title>Este sitio usa cookies</title>
+      <link>https://proyectopy.github.io/legal/este-sitio-usa-cookies/</link>
+      <pubDate>Sat, 19 Nov 2022 21:11:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/este-sitio-usa-cookies/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el B.O.E.
+¿Que són las cookies?&gt; ¿Que són las cookies? # Cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/este-sitio-usa-cookies/featured.png" />
+    </item>
+    
+    <item>
+      <title>Politica de Privacidad</title>
+      <link>https://proyectopy.github.io/legal/politica-de-privacidad/</link>
+      <pubDate>Sat, 19 Nov 2022 21:11:42 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/legal/politica-de-privacidad/</guid>
+      <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el sitio de la A.E.P.D.
+Regulaciones legales&gt; Regulaciones legales # La presente web da cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/politica-de-privacidad/featured_privacity.png" />
+    </item>
+    
+    <item>
+      <title>Seguimos</title>
+      <link>https://proyectopy.github.io/blog/seguimos/</link>
+      <pubDate>Fri, 18 Nov 2022 19:19:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/blog/seguimos/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/blog/seguimos/featured.png" />
+    </item>
+    
+    <item>
+      <title>Primeros pasos</title>
+      <link>https://proyectopy.github.io/blog/primeros-pasos/</link>
+      <pubDate>Thu, 17 Nov 2022 19:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/blog/primeros-pasos/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/blog/primeros-pasos/featured.png" />
+    </item>
+    
+    <item>
+      <title>Empecemos</title>
+      <link>https://proyectopy.github.io/blog/empecemos/</link>
+      <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/blog/empecemos/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/blog/empecemos/featured.png" />
+    </item>
+    
+    <item>
+      <title>HowTo | Parte 0 | Lo básico</title>
+      <link>https://proyectopy.github.io/how/raspberry-lo-basico/</link>
+      <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/how/raspberry-lo-basico/</guid>
+      <description>Esta serie de articulos voy a escribirlos como guia para iniciarse en el mundo de las Raspberys, en principio compré una raspberry para alojar uan pagina web y ahorrarme un dinero en hostings, pero ha servido para mucho más pero eso ya lo irremos viendo poco a poco.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/how/raspberry-lo-basico/featured_how_pi4.jpg" />
+    </item>
+    
+  </channel>
+</rss>
