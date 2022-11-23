@@ -26,6 +26,11 @@
   weight = 30
 
 [[main]]
+  name = "Apps"
+  pageRef = "apps"
+  weight = 40
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/Raspyserver"
