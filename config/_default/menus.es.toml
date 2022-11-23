@@ -62,3 +62,8 @@
   name = "|&nbsp;&nbsp;&nbsp;&nbsp;Licencia MIT"
   pageRef = "legal/licencia"
   weight = 40  
+
+[[footer]]
+  name = "Jellyfin"
+  pageRef = "proyectopy.duckdns.org:8096"
+  weight = 40    
