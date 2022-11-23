@@ -66,4 +66,4 @@
 [[footer]]
   name = "Jellyfin"
   pageRef = "http://proyectopy.duckdns.org:8096"
-  weight = 40    
+  weight = 50    
