@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="es" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="es" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
@@ -74,10 +74,11 @@
   <meta property="og:title" content="Servidor" />
 <meta property="og:description" content="Mi RaspyServer" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://proyectopy.github.io/apps/" /><meta property="og:site_name" content="ProyectoPy" />
+<meta property="og:url" content="https://proyectopy.github.io/apps/" /><meta property="og:image" content="https://proyectopy.github.io/apps/featured_apps.png"/><meta property="og:site_name" content="ProyectoPy" />
 
 
-  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://proyectopy.github.io/apps/featured_apps.png"/>
 <meta name="twitter:title" content="Servidor"/>
 <meta name="twitter:description" content="Mi RaspyServer"/>
 
@@ -436,6 +437,26 @@
 
 
 
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+<div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/apps/featured_apps_hu1bd551933c96bd9135a388a612dd189e_250178_1200x0_resize_box_3.png);">
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-30 dark:opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
 
  <header>
