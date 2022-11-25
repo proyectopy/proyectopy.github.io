@@ -83,13 +83,13 @@ mainSections = ["blog"]
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAwpbWy7UJDFIWDozhpDPtcfESqpaviDCs"
+  authDomain = "proyectopy-432fc.firebaseapp.com"
+  projectId = "proyectopy-432fc"
+  storageBucket = "proyectopy-432fc.appspot.com"
+  messagingSenderId = "339543653683"
+  appId = "1:339543653683:web:2d67be8ea71444ca5e5246"
+  measurementId = "G-4ZNV8M4JDH"
 
 [fathomAnalytics]
   # site = "ABC12345"

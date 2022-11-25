@@ -48,27 +48,19 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "Cookies"
-  pageRef = "legal/cookies"
-  weight = 10
 
 [[footer]]
   name = "|&nbsp;&nbsp;&nbsp;&nbsp;Aviso Legal"
   pageRef = "legal/aviso"
-  weight = 20
+  weight = 10
 
 [[footer]]
   name = "|&nbsp;&nbsp;&nbsp;&nbsp;Privacidad"
   pageRef = "legal/privacidad"
-  weight = 30
+  weight = 20
  
 [[footer]]
   name = "|&nbsp;&nbsp;&nbsp;&nbsp;Licencia MIT"
   pageRef = "legal/licencia"
-  weight = 40  
-
-[[footer]]
-  name = "Jellyfin"
-  url = "http://proyectopy.duckdns.org:8096"
-  weight = 50    
+  weight = 30  
+  
