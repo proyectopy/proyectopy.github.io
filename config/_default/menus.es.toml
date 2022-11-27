@@ -33,7 +33,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/Raspyserver"
+  url = "https://github.com/proyectopy"
   weight = 100
 
 [[main]]
