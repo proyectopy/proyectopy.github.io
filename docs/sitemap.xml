@@ -14,7 +14,7 @@
     
       <url>
             <loc>https://proyectopy.github.io/tags/configuracion/</loc>
-            <lastmod>2022-11-21T15:03:56+01:00</lastmod>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -22,7 +22,79 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/how/raspberry-primeras-configuraciones/</loc>
+            <loc>https://proyectopy.github.io/tags/daemon/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/dhcpcd/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/estatica/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/ip/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/series/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/series/tutoriales-basicos/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tutoriales/tutos-asignando-ip-estatica/</loc>
+            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/acceso/</loc>
             <lastmod>2022-11-21T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -49,25 +121,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/series/serie-howto/</loc>
-            <lastmod>2022-11-21T15:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://proyectopy.github.io/series/</loc>
-            <lastmod>2022-11-21T15:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://proyectopy.github.io/tags/</loc>
+            <loc>https://proyectopy.github.io/tutoriales/raspberry-primera-conexion/</loc>
             <lastmod>2022-11-21T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -85,7 +139,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/how/instalar-el-sistema-operativo/</loc>
+            <loc>https://proyectopy.github.io/tags/debian/</loc>
             <lastmod>2022-11-20T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -113,6 +167,24 @@
     
       <url>
             <loc>https://proyectopy.github.io/tags/raspbian/</loc>
+            <lastmod>2022-11-20T15:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/sistema-operativo/</loc>
+            <lastmod>2022-11-20T15:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/</loc>
             <lastmod>2022-11-20T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -211,34 +283,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/blog/seguimos/</loc>
-            <lastmod>2022-11-18T19:19:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://proyectopy.github.io/blog/primeros-pasos/</loc>
-            <lastmod>2022-11-17T19:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://proyectopy.github.io/tags/conceptos/</loc>
-            <lastmod>2022-11-16T15:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://proyectopy.github.io/blog/empecemos/</loc>
             <lastmod>2022-11-16T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -256,7 +301,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/how/raspberry-lo-basico/</loc>
+            <loc>https://proyectopy.github.io/tags/raspberri/</loc>
             <lastmod>2022-11-16T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -265,7 +310,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/tags/raspberri/</loc>
+            <loc>https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</loc>
             <lastmod>2022-11-16T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -283,7 +328,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/how/</loc>
+            <loc>https://proyectopy.github.io/tips/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -293,6 +338,15 @@
     
       <url>
             <loc>https://proyectopy.github.io/apps/</loc>
+            <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tutoriales/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
