@@ -21,14 +21,19 @@
   weight = 20
 
 [[main]]
-  name = "HowTo"
-  pageRef = "how"
+  name = "Tutos"
+  pageRef = "tutoriales"
   weight = 30
+
+[[main]]
+  name = "Ideas"
+  pageRef = "tips"
+  weight = 40  
 
 [[main]]
   name = "Apps"
   pageRef = "apps"
-  weight = 40
+  weight = 50
 
 [[main]]
   identifier = "github"

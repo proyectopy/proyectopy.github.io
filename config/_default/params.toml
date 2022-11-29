@@ -6,7 +6,7 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "avocado"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
