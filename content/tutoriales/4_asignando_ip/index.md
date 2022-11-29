@@ -3,7 +3,7 @@ title: "Tutos | Asignando a tu Raspberry Pi una ip estatica."
 date: 2022-11-21T15:03:57+01:00
 draft: false
 description: "Los usuarios en la raspberry y configurar la ip que va a usar tu raspberry."
-slug: "tutos-asugnando-ip-estatica"
+slug: "tutos-asignando-ip-estatica"
 tags: ["configuracion", "ip", "DHCPCD", "daemon", "estatica"]
 series: ["Tutoriales Basicos"]
 series_order: 4
