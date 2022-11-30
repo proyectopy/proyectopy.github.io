@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistemas operativos on ProyectoPy</title>
+    <link>https://proyectopy.github.io/tags/sistemas-operativos/</link>
+    <description>Recent content in Sistemas operativos on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Nov 2022 11:03:56 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/sistemas-operativos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empezamos nuestra andadura con ProyectoPy</title>
+      <link>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</link>
+      <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</guid>
+      <description>Saludos amigos de la tecnología y de las Raspberrys.
+Esta web, empieza hoy como un sitio en el que poder acudir para solucionar cuestiones que surgen al trastear con esos aparatejos que nos vuelven locos en ocasiones y nos dan dolores de cabeza cuando hacen lo que quieren.</description>
+    </item>
+    
+  </channel>
+</rss>

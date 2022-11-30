@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automatizar on ProyectoPy</title>
+    <link>https://proyectopy.github.io/tags/automatizar/</link>
+    <description>Recent content in automatizar on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 29 Nov 2022 11:03:56 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/automatizar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ideas | Crear tu primer Script en bash</title>
+      <link>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</link>
+      <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</guid>
+      <description>Este primer articulo , quiero incluieloo en una sección que he decidido llamar ideas, Los articulos de esta sección, pretendo que sean articulos cortos con conceptos y necesidades básicas para complementar los tutoriales y el resto de las secciones del sitio.</description>
+    </item>
+    
+  </channel>
+</rss>

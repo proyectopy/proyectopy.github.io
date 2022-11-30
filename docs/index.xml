@@ -6,7 +6,17 @@
     <description>Recent content in Bienvenido a ProyectoPi! on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 23 Nov 2022 20:53:27 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 11:03:56 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ideas | Crear tu primer Script en bash</title>
+      <link>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</link>
+      <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</guid>
+      <description>Este primer articulo , quiero incluieloo en una sección que he decidido llamar ideas, Los articulos de esta sección, pretendo que sean articulos cortos con conceptos y necesidades básicas para complementar los tutoriales y el resto de las secciones del sitio.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/featured.jpg" />
+    </item>
+    
     <item>
       <title>Tutos | Asignando a tu Raspberry Pi una ip estatica.</title>
       <link>https://proyectopy.github.io/tutoriales/tutos-asignando-ip-estatica/</link>
@@ -81,6 +91,17 @@ Regulaciones legales&gt; Regulaciones legales # La presente web da cumplimiento 
       <guid>https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</guid>
       <description>Esta serie de articulos voy a escribirlos como guia para iniciarse en el mundo de las Raspberys, en principio compré una raspberry para alojar uan pagina web y ahorrarme un dinero en hostings, pero ha servido para mucho más pero eso ya lo irremos viendo poco a poco.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/featured_how_pi4.jpg" />
+    </item>
+    
+    <item>
+      <title>Empezamos nuestra andadura con ProyectoPy</title>
+      <link>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</link>
+      <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</guid>
+      <description>Saludos amigos de la tecnología y de las Raspberrys.
+Esta web, empieza hoy como un sitio en el que poder acudir para solucionar cuestiones que surgen al trastear con esos aparatejos que nos vuelven locos en ocasiones y nos dan dolores de cabeza cuando hacen lo que quieren.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/featured.jpg" />
     </item>
     
   </channel>

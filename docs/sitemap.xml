@@ -4,8 +4,71 @@
   
     
       <url>
+            <loc>https://proyectopy.github.io/tags/automatizar/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/bash/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://proyectopy.github.io/</loc>
-            <lastmod>2022-11-23T20:53:27+01:00</lastmod>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/lenguajes/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/programacion/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/scripts/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/</loc>
+            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -59,15 +122,6 @@
     
       <url>
             <loc>https://proyectopy.github.io/series/</loc>
-            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://proyectopy.github.io/tags/</loc>
             <lastmod>2022-11-21T15:03:57+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -319,7 +373,52 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/blog/</loc>
+            <loc>https://proyectopy.github.io/tags/alojamiento/</loc>
+            <lastmod>2022-11-15T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</loc>
+            <lastmod>2022-11-15T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/raspberrys/</loc>
+            <lastmod>2022-11-15T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/servidores/</loc>
+            <lastmod>2022-11-15T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/tags/sistemas-operativos/</loc>
+            <lastmod>2022-11-15T11:03:56+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://proyectopy.github.io/ideas/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -328,7 +427,7 @@
   
     
       <url>
-            <loc>https://proyectopy.github.io/tips/</loc>
+            <loc>https://proyectopy.github.io/novedades/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
