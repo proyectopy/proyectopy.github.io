@@ -2,6 +2,7 @@
 title: "Politica de Privacidad"
 date: 2022-11-19T21:11:42+01:00
 draft: false
+showComments : false
 description: "Te informamos sobre las cookies."
 slug: "politica-de-privacidad"
 tags: ["cookies", "ley", "normativa", "boe"]

@@ -109,4 +109,5 @@ mainSections = ["blog"]
   # pinterest = ""
   # yandex = ""
 
-disqusShortname = 'L4cl4v3degmx.3s'
+#Añadido shortname de disqus
+disqusShortname = 'proyectopy'

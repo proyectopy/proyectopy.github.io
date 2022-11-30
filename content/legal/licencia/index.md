@@ -2,6 +2,7 @@
 title: "Licencia MIT"
 date: 2022-11-19T21:12:42+01:00
 draft: false
+showComments : false
 description: "Licencia MIT usada en este sitio ."
 slug: "licencia-mit"
 tags: ["cookies", "ley", "normativa", "boe", "derechos", "privacidad"]

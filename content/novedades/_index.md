@@ -7,6 +7,7 @@ showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
+showComments : false
 showReadingTime : false
 showTableOfContents : true
 showTaxonomies : false 

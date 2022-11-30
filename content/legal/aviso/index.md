@@ -2,6 +2,7 @@
 title: "Aviso legal"
 date: 2022-11-19T21:12:42+01:00
 draft: false
+showComments : false
 description: "Tus derechos | Aviso Legal."
 slug: "aviso-legal"
 tags: ["cookies", "ley", "normativa", "boe", "derechos", "privacidad"]
