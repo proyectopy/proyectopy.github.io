@@ -18,7 +18,7 @@ Os ruego comprensión, estoy empezando y no hay todo el contenido que desearía,
 
 El contenido de este sitio está regido por una [Licencia MIT](/legal/licencia-mit/) por lo que podeis usar mis experiencias en vuestros sitios, redes etc, eso si agradecería me citaseis al hacerlo, pero si no lo haceis no voy a perseguiros por la red ...
 
-Estoy proyectando implementar los comentarios en las secciones tutoriales e ideas, para que podais participar ,comentar y si es preciso corregir y ampliar el contenido en relación a vuestra participacion y vuestros comentarios.
+~~Estoy proyectando implementar~~ Acabo de implementar los comentarios en las secciones tutoriales e ideas, para que podais participar ,comentar y si es preciso corregir y ampliar el contenido en relación a vuestra participacion y vuestros comentarios.
 
 De momento podeis usar el correo electronico. Al final de cada articulo encontrareis información como esta de como podeis hacerlo.
 
