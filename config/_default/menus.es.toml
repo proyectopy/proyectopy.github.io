@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  pageRef = "blog"
+  name = "Novedades"
+  pageRef = "novedades"
   weight = 20
 
 [[main]]
@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Ideas"
-  pageRef = "tips"
+  pageRef = "ideas"
   weight = 40  
 
 [[main]]

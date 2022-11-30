@@ -17,7 +17,7 @@ He decidido utilizar el tema Blowfish debido a la flexibilidad, sencillez y el g
     {{< icon "circle-info" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">El estado del sitio es <code id="layout">empezando a trabajar</code>.</span>
+    <span class="prose dark:prose-invert">El estado del sitio es <code id="layout">Ya parece que ha arrancado</code>.</span>
     <!-- <button
       id="switch-layout-button"
       class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
