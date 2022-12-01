@@ -25,6 +25,7 @@ mainSections = ["blog"]
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
+ 
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom

@@ -28,8 +28,9 @@ error:
 footer:
   dark_appearance: "Cambiar a modo oscuro"
   light_appearance: "Cambiar a modo claro"
-  powered_by: "Desarrollada con {{ .Hugo }} &amp; {{ .Theme }}"
-
+  powered_by: " usando {{ .Hugo }} &amp; {{ .Theme }}"
+  developed_by: "Creado por "
+  
 list:
   externalurl_title: "Link a página externa"
   no_articles: "Aún no hay artículos para listar aquí."

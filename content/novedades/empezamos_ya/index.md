@@ -1,7 +1,7 @@
 ---
 title: "Empezamos nuestra andadura con ProyectoPy"
 date: 2022-11-15T11:03:56+01:00
-DateUpdated: 2022-12-01T11:03:56+01:00
+date_updated: 2022-12-01T11:03:56+01:00
 draft: false
 showTableOfContents : false
 description: "Las aventuras y desventuras de Wild y su Raspberry"
