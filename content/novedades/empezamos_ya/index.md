@@ -9,7 +9,7 @@ slug: "empezamos-nuestra-andadura-con-proyectopy"
 tags: ["programacion", "servidores", "alojamiento", "Sistemas operativos", "raspberrys"]
 ---
 
-Saludos amigos de la tecnología y de las Raspberrys. 
+Muchos saludos amigos de la tecnología y de las Raspberrys. 
 
 Esta web, empieza hoy como un sitio en el que poder acudir para solucionar cuestiones que surgen al trastear con esos `aparatejos` que nos vuelven locos en ocasiones y nos dan `dolores de cabeza` cuando hacen lo que quieren.
 
