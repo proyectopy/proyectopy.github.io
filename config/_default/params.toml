@@ -43,6 +43,7 @@ mainSections = ["blog"]
   showViews = true
   showLikes = true
   showComments = true
+  date_updated = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
