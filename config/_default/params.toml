@@ -42,7 +42,7 @@ mainSections = ["blog"]
   showViews = true
   showLikes = true
   showComments = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background
@@ -50,7 +50,8 @@ mainSections = ["blog"]
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/proyectopy/proyectopy.hugo/blob/main/content/"
+  # editURL = "https://github.com/proyectopy/proyectopy.hugo/blob/main/content/"
+  editURL = "https://github.com/proyectopy/proyectopy.github.io/tree/master/content/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -91,6 +92,7 @@ mainSections = ["blog"]
   messagingSenderId = "339543653683"
   appId = "1:339543653683:web:2d67be8ea71444ca5e5246"
   measurementId = "G-4ZNV8M4JDH"
+
 
 [fathomAnalytics]
   # site = "ABC12345"
