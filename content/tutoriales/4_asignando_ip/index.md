@@ -1,5 +1,5 @@
 ---
-title: "Tutos | Asignando a tu Raspberry Pi una ip estatica."
+title: "Tutos | Asignando una ip estatica a Raspberry."
 date: 2022-11-21T15:03:57+01:00
 draft: false
 description: "Los usuarios en la raspberry y configurar la ip que va a usar tu raspberry."
