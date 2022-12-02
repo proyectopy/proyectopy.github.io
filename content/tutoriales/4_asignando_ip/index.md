@@ -55,10 +55,11 @@ sudo service dhcpcd status
 ``` 
 ... y si todo lo has hecho bien ya debe aparecer `active (running)`
 
-Ya hemos activado DHCPCD, ahora empezamos a editar su archivo de configuración **/etc/dhcpcd.conf** para hacer eso, el sistema operativo lleva integrado un editor de texto `se llama` **nano** `y es un editor de texto para linea de comandos`.
+Ya hemos activado DHCPCD, ahora empezamos a editar su archivo de configuración **/etc/dhcpcd.conf** para hacer eso, el sistema operativo lleva integrado un editor de texto `se llama` nano `y es un editor de texto para linea de comandos`.
 
-En nuestra terminal abriremos nuestro archivo con nano suando el siguiente comando:
+En nuestra terminal abriremos nuestro archivo con nano usando el siguiente comando:
 
+<a name="nano"></a> 
 ```toml
 sudo nano /etc/dhcpcd.conf
 ```

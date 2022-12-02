@@ -29,6 +29,11 @@
       "icon": "twitter",
       "title": "sharing.twitter",
       "url": "https://twitter.com/intent/tweet/?url=%s&text=%s"
+    },
+    "mastodon": {
+      "icon": "mastodon",
+      "title": "sharing.mastodon",
+      "url": "https://mastodon.social/web/statuses/new?url=%s&text=%s"
     }
   }
 }
