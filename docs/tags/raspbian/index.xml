@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raspbian on ProyectoPy</title>
-    <link>http://192.168.1.105/tags/raspbian/</link>
+    <link>https://proyectopy.github.io/tags/raspbian/</link>
     <description>Recent content in Raspbian on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 20 Nov 2022 15:03:56 +0100</lastBuildDate><atom:link href="http://192.168.1.105/tags/raspbian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 15:03:56 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/raspbian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutos | Pi OS, un OS basado en Debian</title>
-      <link>http://192.168.1.105/tutoriales/tutos-pi-os-un-os-basado-en-debian/</link>
+      <link>https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/tutos-pi-os-un-os-basado-en-debian/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/</guid>
       <description>Instalando Pi OS Lite&gt; Instalando Pi OS Lite # Ya sabemos lo que es una Raspberry y tambien el equipamiento minimo para hacela funcionar, pero como todos estos aparatos no solo basta con enchufar a la corriente, tenemos que instaurarles un cerebro, lo que tecnicamente se llama instalarles el sistema operaticvo, hay muchas formas pero intentaré hacerlo de la forma más sencilla que yo se.</description>
     </item>
     

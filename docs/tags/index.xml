@@ -2,359 +2,359 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ProyectoPy</title>
-    <link>http://192.168.1.105/tags/</link>
+    <link>https://proyectopy.github.io/tags/</link>
     <description>Recent content in Tags on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>claves</title>
-      <link>http://192.168.1.105/tags/claves/</link>
+      <link>https://proyectopy.github.io/tags/claves/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/claves/</guid>
+      <guid>https://proyectopy.github.io/tags/claves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuracion</title>
-      <link>http://192.168.1.105/tags/configuracion/</link>
+      <link>https://proyectopy.github.io/tags/configuracion/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/configuracion/</guid>
+      <guid>https://proyectopy.github.io/tags/configuracion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contraseña</title>
-      <link>http://192.168.1.105/tags/contrase%C3%B1a/</link>
+      <link>https://proyectopy.github.io/tags/contrase%C3%B1a/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/contrase%C3%B1a/</guid>
+      <guid>https://proyectopy.github.io/tags/contrase%C3%B1a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hostname</title>
-      <link>http://192.168.1.105/tags/hostname/</link>
+      <link>https://proyectopy.github.io/tags/hostname/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/hostname/</guid>
+      <guid>https://proyectopy.github.io/tags/hostname/</guid>
       <description></description>
     </item>
     
     <item>
       <title>idioma</title>
-      <link>http://192.168.1.105/tags/idioma/</link>
+      <link>https://proyectopy.github.io/tags/idioma/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/idioma/</guid>
+      <guid>https://proyectopy.github.io/tags/idioma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>locale</title>
-      <link>http://192.168.1.105/tags/locale/</link>
+      <link>https://proyectopy.github.io/tags/locale/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/locale/</guid>
+      <guid>https://proyectopy.github.io/tags/locale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nombres</title>
-      <link>http://192.168.1.105/tags/nombres/</link>
+      <link>https://proyectopy.github.io/tags/nombres/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/nombres/</guid>
+      <guid>https://proyectopy.github.io/tags/nombres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>root</title>
-      <link>http://192.168.1.105/tags/root/</link>
+      <link>https://proyectopy.github.io/tags/root/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/root/</guid>
+      <guid>https://proyectopy.github.io/tags/root/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usuarios</title>
-      <link>http://192.168.1.105/tags/usuarios/</link>
+      <link>https://proyectopy.github.io/tags/usuarios/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/usuarios/</guid>
+      <guid>https://proyectopy.github.io/tags/usuarios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zona horaria</title>
-      <link>http://192.168.1.105/tags/zona-horaria/</link>
+      <link>https://proyectopy.github.io/tags/zona-horaria/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/zona-horaria/</guid>
+      <guid>https://proyectopy.github.io/tags/zona-horaria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automatizar</title>
-      <link>http://192.168.1.105/tags/automatizar/</link>
+      <link>https://proyectopy.github.io/tags/automatizar/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/automatizar/</guid>
+      <guid>https://proyectopy.github.io/tags/automatizar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash</title>
-      <link>http://192.168.1.105/tags/bash/</link>
+      <link>https://proyectopy.github.io/tags/bash/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/bash/</guid>
+      <guid>https://proyectopy.github.io/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lenguajes</title>
-      <link>http://192.168.1.105/tags/lenguajes/</link>
+      <link>https://proyectopy.github.io/tags/lenguajes/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/lenguajes/</guid>
+      <guid>https://proyectopy.github.io/tags/lenguajes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programacion</title>
-      <link>http://192.168.1.105/tags/programacion/</link>
+      <link>https://proyectopy.github.io/tags/programacion/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/programacion/</guid>
+      <guid>https://proyectopy.github.io/tags/programacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scripts</title>
-      <link>http://192.168.1.105/tags/scripts/</link>
+      <link>https://proyectopy.github.io/tags/scripts/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/scripts/</guid>
+      <guid>https://proyectopy.github.io/tags/scripts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>daemon</title>
-      <link>http://192.168.1.105/tags/daemon/</link>
+      <link>https://proyectopy.github.io/tags/daemon/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/daemon/</guid>
+      <guid>https://proyectopy.github.io/tags/daemon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DHCPCD</title>
-      <link>http://192.168.1.105/tags/dhcpcd/</link>
+      <link>https://proyectopy.github.io/tags/dhcpcd/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/dhcpcd/</guid>
+      <guid>https://proyectopy.github.io/tags/dhcpcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>estatica</title>
-      <link>http://192.168.1.105/tags/estatica/</link>
+      <link>https://proyectopy.github.io/tags/estatica/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/estatica/</guid>
+      <guid>https://proyectopy.github.io/tags/estatica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ip</title>
-      <link>http://192.168.1.105/tags/ip/</link>
+      <link>https://proyectopy.github.io/tags/ip/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/ip/</guid>
+      <guid>https://proyectopy.github.io/tags/ip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>acceso</title>
-      <link>http://192.168.1.105/tags/acceso/</link>
+      <link>https://proyectopy.github.io/tags/acceso/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/acceso/</guid>
+      <guid>https://proyectopy.github.io/tags/acceso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pi</title>
-      <link>http://192.168.1.105/tags/pi/</link>
+      <link>https://proyectopy.github.io/tags/pi/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/pi/</guid>
+      <guid>https://proyectopy.github.io/tags/pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debian</title>
-      <link>http://192.168.1.105/tags/debian/</link>
+      <link>https://proyectopy.github.io/tags/debian/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/debian/</guid>
+      <guid>https://proyectopy.github.io/tags/debian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pi imager</title>
-      <link>http://192.168.1.105/tags/pi-imager/</link>
+      <link>https://proyectopy.github.io/tags/pi-imager/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/pi-imager/</guid>
+      <guid>https://proyectopy.github.io/tags/pi-imager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raspberry</title>
-      <link>http://192.168.1.105/tags/raspberry/</link>
+      <link>https://proyectopy.github.io/tags/raspberry/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/raspberry/</guid>
+      <guid>https://proyectopy.github.io/tags/raspberry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raspbian</title>
-      <link>http://192.168.1.105/tags/raspbian/</link>
+      <link>https://proyectopy.github.io/tags/raspbian/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/raspbian/</guid>
+      <guid>https://proyectopy.github.io/tags/raspbian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sistema operativo&#34;</title>
-      <link>http://192.168.1.105/tags/sistema-operativo/</link>
+      <link>https://proyectopy.github.io/tags/sistema-operativo/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/sistema-operativo/</guid>
+      <guid>https://proyectopy.github.io/tags/sistema-operativo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>boe</title>
-      <link>http://192.168.1.105/tags/boe/</link>
+      <link>https://proyectopy.github.io/tags/boe/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/boe/</guid>
+      <guid>https://proyectopy.github.io/tags/boe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cookies</title>
-      <link>http://192.168.1.105/tags/cookies/</link>
+      <link>https://proyectopy.github.io/tags/cookies/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/cookies/</guid>
+      <guid>https://proyectopy.github.io/tags/cookies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>derechos</title>
-      <link>http://192.168.1.105/tags/derechos/</link>
+      <link>https://proyectopy.github.io/tags/derechos/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/derechos/</guid>
+      <guid>https://proyectopy.github.io/tags/derechos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ley</title>
-      <link>http://192.168.1.105/tags/ley/</link>
+      <link>https://proyectopy.github.io/tags/ley/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/ley/</guid>
+      <guid>https://proyectopy.github.io/tags/ley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>normativa</title>
-      <link>http://192.168.1.105/tags/normativa/</link>
+      <link>https://proyectopy.github.io/tags/normativa/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/normativa/</guid>
+      <guid>https://proyectopy.github.io/tags/normativa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacidad</title>
-      <link>http://192.168.1.105/tags/privacidad/</link>
+      <link>https://proyectopy.github.io/tags/privacidad/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/privacidad/</guid>
+      <guid>https://proyectopy.github.io/tags/privacidad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conceptos</title>
-      <link>http://192.168.1.105/tags/conceptos/</link>
+      <link>https://proyectopy.github.io/tags/conceptos/</link>
       <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/conceptos/</guid>
+      <guid>https://proyectopy.github.io/tags/conceptos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>equpamiento</title>
-      <link>http://192.168.1.105/tags/equpamiento/</link>
+      <link>https://proyectopy.github.io/tags/equpamiento/</link>
       <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/equpamiento/</guid>
+      <guid>https://proyectopy.github.io/tags/equpamiento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raspberri</title>
-      <link>http://192.168.1.105/tags/raspberri/</link>
+      <link>https://proyectopy.github.io/tags/raspberri/</link>
       <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/raspberri/</guid>
+      <guid>https://proyectopy.github.io/tags/raspberri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alojamiento</title>
-      <link>http://192.168.1.105/tags/alojamiento/</link>
+      <link>https://proyectopy.github.io/tags/alojamiento/</link>
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/alojamiento/</guid>
+      <guid>https://proyectopy.github.io/tags/alojamiento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raspberrys</title>
-      <link>http://192.168.1.105/tags/raspberrys/</link>
+      <link>https://proyectopy.github.io/tags/raspberrys/</link>
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/raspberrys/</guid>
+      <guid>https://proyectopy.github.io/tags/raspberrys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>servidores</title>
-      <link>http://192.168.1.105/tags/servidores/</link>
+      <link>https://proyectopy.github.io/tags/servidores/</link>
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/servidores/</guid>
+      <guid>https://proyectopy.github.io/tags/servidores/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sistemas operativos</title>
-      <link>http://192.168.1.105/tags/sistemas-operativos/</link>
+      <link>https://proyectopy.github.io/tags/sistemas-operativos/</link>
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tags/sistemas-operativos/</guid>
+      <guid>https://proyectopy.github.io/tags/sistemas-operativos/</guid>
       <description></description>
     </item>
     

@@ -2,127 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bienvenido a ProyectoPi! on ProyectoPy</title>
-    <link>http://192.168.1.105/</link>
+    <link>https://proyectopy.github.io/</link>
     <description>Recent content in Bienvenido a ProyectoPi! on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutos | Activando usuario root y cambio de claves</title>
-      <link>http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/</link>
+      <link>https://proyectopy.github.io/tutoriales/tutos-activando-usuario-root-cambio-claves/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/tutos-activando-usuario-root-cambio-claves/</guid>
       <description>Tenemos localizable en la red a nuestra Raspberry pero, hay cosas que no puedes hacer sin los privilegios de superusuario por eso debemos trabajar un poquito.
 Puedes ver todos los articulos que componen esta serie aquí.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/featured_how_sudo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/tutos-activando-usuario-root-cambio-claves/featured_how_sudo.jpg" />
     </item>
     
     <item>
       <title>Tutos | Cambia hostname, idioma y la zona horaria </title>
-      <link>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</link>
+      <link>https://proyectopy.github.io/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</guid>
       <description>Lo más probable es que tu consola emita los mensajes en inglés, no es nada preocupante, pero si puedes, por que no hacer que tu raspberry se comunique contigo en castellano &amp;hellip; o el idioma que elijas.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/featured_how_locale.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/cambiar-zona-horaria-idioma-y-hostname/featured_how_locale.jpg" />
     </item>
     
     <item>
       <title>Ideas | Crear tu primer Script en bash</title>
-      <link>http://192.168.1.105/ideas/ideas-tu-primer-script-bash/</link>
+      <link>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</link>
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/ideas/ideas-tu-primer-script-bash/</guid>
+      <guid>https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/</guid>
       <description>Este primer articulo , quiero incluieloo en una sección que he decidido llamar ideas, Los articulos de esta sección, pretendo que sean articulos cortos con conceptos y necesidades básicas para complementar los tutoriales y el resto de las secciones del sitio.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/ideas/ideas-tu-primer-script-bash/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/ideas/ideas-tu-primer-script-bash/featured.jpg" />
     </item>
     
     <item>
       <title>Tutos | Asignando a tu Raspberry Pi una ip estatica.</title>
-      <link>http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/</link>
+      <link>https://proyectopy.github.io/tutoriales/tutos-asignando-ip-estatica/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/tutos-asignando-ip-estatica/</guid>
       <description>Te conectaste ya por primera vez a la raspberry, ya has usado a lo mejor por primera vez la consola de comandos, incluso un sistema operativo basado en linux.
 Puedes ver todos los articulos que componen esta serie aquí.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/featured_how_ip.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/tutos-asignando-ip-estatica/featured_how_ip.jpg" />
     </item>
     
     <item>
       <title>Tutos | Primera conexion a tu Raspberry</title>
-      <link>http://192.168.1.105/tutoriales/raspberry-primera-conexion/</link>
+      <link>https://proyectopy.github.io/tutoriales/raspberry-primera-conexion/</link>
       <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/raspberry-primera-conexion/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/raspberry-primera-conexion/</guid>
       <description>Ya tienes una tarjetita metida en la raspberry, y deseando empezar, pero faltan algunos pasos, asi que no te desesperes, que todo llega.
 Puedes ver todos los articulos que componen esta serie aquí.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/raspberry-primera-conexion/featured_how.config.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/raspberry-primera-conexion/featured_how.config.jpg" />
     </item>
     
     <item>
       <title>Tutos | Pi OS, un OS basado en Debian</title>
-      <link>http://192.168.1.105/tutoriales/tutos-pi-os-un-os-basado-en-debian/</link>
+      <link>https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/</link>
       <pubDate>Sun, 20 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/tutos-pi-os-un-os-basado-en-debian/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/</guid>
       <description>Instalando Pi OS Lite&gt; Instalando Pi OS Lite # Ya sabemos lo que es una Raspberry y tambien el equipamiento minimo para hacela funcionar, pero como todos estos aparatos no solo basta con enchufar a la corriente, tenemos que instaurarles un cerebro, lo que tecnicamente se llama instalarles el sistema operaticvo, hay muchas formas pero intentaré hacerlo de la forma más sencilla que yo se.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-pi-os-un-os-basado-en-debian/featured_how_SO.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/tutos-pi-os-un-os-basado-en-debian/featured_how_SO.jpg" />
     </item>
     
     <item>
       <title>Aviso legal</title>
-      <link>http://192.168.1.105/legal/aviso-legal/</link>
+      <link>https://proyectopy.github.io/legal/aviso-legal/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/legal/aviso-legal/</guid>
+      <guid>https://proyectopy.github.io/legal/aviso-legal/</guid>
       <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el B.O.E.
 Datos Identicativos&gt; Datos Identicativos # En cumplimiento con el deber de información recogido en artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, a continuación se reflejan los siguientes datos:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/legal/aviso-legal/featured_legal.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/aviso-legal/featured_legal.png" />
     </item>
     
     <item>
       <title>Licencia MIT</title>
-      <link>http://192.168.1.105/legal/licencia-mit/</link>
+      <link>https://proyectopy.github.io/legal/licencia-mit/</link>
       <pubDate>Sat, 19 Nov 2022 21:12:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/legal/licencia-mit/</guid>
+      <guid>https://proyectopy.github.io/legal/licencia-mit/</guid>
       <description>Nosotros la usamos&gt; Nosotros la usamos # Licencia MIT, puedes descargar una copia en pdf desde este enlace..
 2022 ProyectoPy
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el &amp;ldquo;Software&amp;rdquo;), para operar con el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, fusión , publicar, distribuir, otorgar sublicencias y/o vender copias del Software, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/legal/licencia-mit/featured_license.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/licencia-mit/featured_license.png" />
     </item>
     
     <item>
       <title>Politica de Privacidad</title>
-      <link>http://192.168.1.105/legal/politica-de-privacidad/</link>
+      <link>https://proyectopy.github.io/legal/politica-de-privacidad/</link>
       <pubDate>Sat, 19 Nov 2022 21:11:42 +0100</pubDate>
       
-      <guid>http://192.168.1.105/legal/politica-de-privacidad/</guid>
+      <guid>https://proyectopy.github.io/legal/politica-de-privacidad/</guid>
       <description>te lo explicamos&gt; te lo explicamos # Puedes consultar el texto oficial desde el sitio de la A.E.P.D.
 Regulaciones legales&gt; Regulaciones legales # La presente web da cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/legal/politica-de-privacidad/featured_privacity.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/legal/politica-de-privacidad/featured_privacity.png" />
     </item>
     
     <item>
       <title>Tutos | Raspberry algunos conceptos básicos</title>
-      <link>http://192.168.1.105/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</link>
+      <link>https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</link>
       <pubDate>Wed, 16 Nov 2022 15:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</guid>
+      <guid>https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/</guid>
       <description>Esta serie de articulos voy a escribirlos como guia para iniciarse en el mundo de las Raspberys, en principio compré una raspberry para alojar uan pagina web y ahorrarme un dinero en hostings, pero ha servido para mucho más pero eso ya lo irremos viendo poco a poco.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-raspberry-algunos-conceptos-basicos/featured_how_pi4.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/tutoriales/tutos-raspberry-algunos-conceptos-basicos/featured_how_pi4.jpg" />
     </item>
     
     <item>
       <title>Empezamos nuestra andadura con ProyectoPy</title>
-      <link>http://192.168.1.105/novedades/empezamos-nuestra-andadura-con-proyectopy/</link>
+      <link>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</link>
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
-      <guid>http://192.168.1.105/novedades/empezamos-nuestra-andadura-con-proyectopy/</guid>
+      <guid>https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/</guid>
       <description>Muchos saludos amigos de la tecnología y de las Raspberrys.
 Esta web, empieza hoy como un sitio en el que poder acudir para solucionar cuestiones que surgen al trastear con esos aparatejos que nos vuelven locos en ocasiones y nos dan dolores de cabeza cuando hacen lo que quieren.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/novedades/empezamos-nuestra-andadura-con-proyectopy/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://proyectopy.github.io/novedades/empezamos-nuestra-andadura-con-proyectopy/featured.jpg" />
     </item>
     
   </channel>

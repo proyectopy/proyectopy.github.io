@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on ProyectoPy</title>
-    <link>http://192.168.1.105/series/</link>
+    <link>https://proyectopy.github.io/series/</link>
     <description>Recent content in Series on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutoriales Basicos</title>
-      <link>http://192.168.1.105/series/tutoriales-basicos/</link>
+      <link>https://proyectopy.github.io/series/tutoriales-basicos/</link>
       <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
       
-      <guid>http://192.168.1.105/series/tutoriales-basicos/</guid>
+      <guid>https://proyectopy.github.io/series/tutoriales-basicos/</guid>
       <description></description>
     </item>
     
