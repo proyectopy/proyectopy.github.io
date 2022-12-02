@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on ProyectoPy</title>
+    <link>https://proyectopy.github.io/tags/update/</link>
+    <description>Recent content in update on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutos | Expandir el sistema de archivos de la microSD</title>
+      <link>https://proyectopy.github.io/tutoriales/expandir-sistema-de-archivos-microsd/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>https://proyectopy.github.io/tutoriales/expandir-sistema-de-archivos-microsd/</guid>
+      <description>La Raspberry puede funcionar con una microSD de muy poca capacidad pero ahora por muy pocos Euros podemos obtener tarjetas de memoria de gran capacidad por lo que podemos estar desaprovechando la mayoria de la capacidad de nuestra SD.</description>
+    </item>
+    
+  </channel>
+</rss>
