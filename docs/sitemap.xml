@@ -4,6 +4,150 @@
   
     
       <url>
+            <loc>http://192.168.1.105/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/claves/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/configuracion/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/contrase%C3%B1a/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/hostname/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/idioma/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/locale/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/nombres/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/root/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/series/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/series/tutoriales-basicos/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/usuarios/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://192.168.1.105/tags/zona-horaria/</loc>
+            <lastmod>2022-12-01T17:03:57+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://192.168.1.105/tags/automatizar/</loc>
             <lastmod>2022-11-29T11:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -14,15 +158,6 @@
     
       <url>
             <loc>http://192.168.1.105/tags/bash/</loc>
-            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://192.168.1.105/</loc>
             <lastmod>2022-11-29T11:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -67,24 +202,6 @@
   
     
       <url>
-            <loc>http://192.168.1.105/tags/</loc>
-            <lastmod>2022-11-29T11:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://192.168.1.105/tags/configuracion/</loc>
-            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://192.168.1.105/tags/daemon/</loc>
             <lastmod>2022-11-21T15:03:57+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -121,24 +238,6 @@
   
     
       <url>
-            <loc>http://192.168.1.105/series/</loc>
-            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://192.168.1.105/series/tutoriales-basicos/</loc>
-            <lastmod>2022-11-21T15:03:57+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/</loc>
             <lastmod>2022-11-21T15:03:57+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -166,25 +265,7 @@
   
     
       <url>
-            <loc>http://192.168.1.105/tags/root/</loc>
-            <lastmod>2022-11-21T15:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://192.168.1.105/tutoriales/raspberry-primera-conexion/</loc>
-            <lastmod>2022-11-21T15:03:56+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://192.168.1.105/tags/usuarios/</loc>
             <lastmod>2022-11-21T15:03:56+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

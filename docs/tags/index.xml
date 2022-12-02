@@ -6,7 +6,97 @@
     <description>Recent content in Tags on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 29 Nov 2022 11:03:56 +0100</lastBuildDate><atom:link href="http://192.168.1.105/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>claves</title>
+      <link>http://192.168.1.105/tags/claves/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/claves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuracion</title>
+      <link>http://192.168.1.105/tags/configuracion/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/configuracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contraseña</title>
+      <link>http://192.168.1.105/tags/contrase%C3%B1a/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hostname</title>
+      <link>http://192.168.1.105/tags/hostname/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/hostname/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idioma</title>
+      <link>http://192.168.1.105/tags/idioma/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/idioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>locale</title>
+      <link>http://192.168.1.105/tags/locale/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/locale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nombres</title>
+      <link>http://192.168.1.105/tags/nombres/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/nombres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>root</title>
+      <link>http://192.168.1.105/tags/root/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usuarios</title>
+      <link>http://192.168.1.105/tags/usuarios/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/usuarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zona horaria</title>
+      <link>http://192.168.1.105/tags/zona-horaria/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tags/zona-horaria/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>automatizar</title>
       <link>http://192.168.1.105/tags/automatizar/</link>
@@ -49,15 +139,6 @@
       <pubDate>Tue, 29 Nov 2022 11:03:56 +0100</pubDate>
       
       <guid>http://192.168.1.105/tags/scripts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>configuracion</title>
-      <link>http://192.168.1.105/tags/configuracion/</link>
-      <pubDate>Mon, 21 Nov 2022 15:03:57 +0100</pubDate>
-      
-      <guid>http://192.168.1.105/tags/configuracion/</guid>
       <description></description>
     </item>
     
@@ -112,24 +193,6 @@
       <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
       
       <guid>http://192.168.1.105/tags/pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>root</title>
-      <link>http://192.168.1.105/tags/root/</link>
-      <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
-      
-      <guid>http://192.168.1.105/tags/root/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>usuarios</title>
-      <link>http://192.168.1.105/tags/usuarios/</link>
-      <pubDate>Mon, 21 Nov 2022 15:03:56 +0100</pubDate>
-      
-      <guid>http://192.168.1.105/tags/usuarios/</guid>
       <description></description>
     </item>
     

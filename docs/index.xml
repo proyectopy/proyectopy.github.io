@@ -6,7 +6,28 @@
     <description>Recent content in Bienvenido a ProyectoPi! on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 29 Nov 2022 11:03:56 +0100</lastBuildDate><atom:link href="http://192.168.1.105/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutos | Activando usuario root y cambio de claves</title>
+      <link>http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/</guid>
+      <description>Tenemos localizable en la red a nuestra Raspberry pero, hay cosas que no puedes hacer sin los privilegios de superusuario por eso debemos trabajar un poquito.
+Puedes ver todos los articulos que componen esta serie aquí.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-activando-usuario-root-cambio-claves/featured_how_sudo.jpg" />
+    </item>
+    
+    <item>
+      <title>Tutos | Cambia hostname, idioma y la zona horaria </title>
+      <link>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</guid>
+      <description>Lo más probable es que tu consola emita los mensajes en inglés, no es nada preocupante, pero si puedes, por que no hacer que tu raspberry se comunique contigo en castellano &amp;hellip; o el idioma que elijas.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/featured_how_locale.jpg" />
+    </item>
+    
     <item>
       <title>Ideas | Crear tu primer Script en bash</title>
       <link>http://192.168.1.105/ideas/ideas-tu-primer-script-bash/</link>
@@ -25,7 +46,7 @@
       <guid>http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/</guid>
       <description>Te conectaste ya por primera vez a la raspberry, ya has usado a lo mejor por primera vez la consola de comandos, incluso un sistema operativo basado en linux.
 Puedes ver todos los articulos que componen esta serie aquí.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/featured_how.config.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/tutoriales/tutos-asignando-ip-estatica/featured_how_ip.jpg" />
     </item>
     
     <item>
@@ -99,7 +120,7 @@ Regulaciones legales&gt; Regulaciones legales # La presente web da cumplimiento 
       <pubDate>Tue, 15 Nov 2022 11:03:56 +0100</pubDate>
       
       <guid>http://192.168.1.105/novedades/empezamos-nuestra-andadura-con-proyectopy/</guid>
-      <description>Saludos amigos de la tecnología y de las Raspberrys.
+      <description>Muchos saludos amigos de la tecnología y de las Raspberrys.
 Esta web, empieza hoy como un sitio en el que poder acudir para solucionar cuestiones que surgen al trastear con esos aparatejos que nos vuelven locos en ocasiones y nos dan dolores de cabeza cuando hacen lo que quieren.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.105/novedades/empezamos-nuestra-andadura-con-proyectopy/featured.jpg" />
     </item>

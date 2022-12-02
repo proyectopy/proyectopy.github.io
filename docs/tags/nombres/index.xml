@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nombres on ProyectoPy</title>
+    <link>http://192.168.1.105/tags/nombres/</link>
+    <description>Recent content in nombres on ProyectoPy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="http://192.168.1.105/tags/nombres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutos | Cambia hostname, idioma y la zona horaria </title>
+      <link>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</link>
+      <pubDate>Thu, 01 Dec 2022 17:03:57 +0100</pubDate>
+      
+      <guid>http://192.168.1.105/tutoriales/cambiar-zona-horaria-idioma-y-hostname/</guid>
+      <description>Lo más probable es que tu consola emita los mensajes en inglés, no es nada preocupante, pero si puedes, por que no hacer que tu raspberry se comunique contigo en castellano &amp;hellip; o el idioma que elijas.</description>
+    </item>
+    
+  </channel>
+</rss>
