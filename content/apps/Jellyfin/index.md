@@ -1,7 +1,7 @@
 ---
 title: "Jellyfin :rocket:"
 date: 2022-11-23T20:53:27+01:00
-externalUrl: "http://proyectopy.duckdns.org:8096"
+externalUrl: "https://proyectopy.duckdns.org:8920"
 summary: "Servidor multimedia de musica, libros, pelis, series etc"
 showReadingTime: false
 showSummary: true
