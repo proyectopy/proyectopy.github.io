@@ -32,7 +32,7 @@
 
 [[main]]
   name = "Apps"
-  pageRef = "apps"
+  url = "https://proyectopy.duckdns.org/aplicaciones/"
   weight = 50
 
 [[main]]
