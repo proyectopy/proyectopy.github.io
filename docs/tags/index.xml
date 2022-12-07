@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ProyectoPy</title>
+    <title>Etiquetas on ProyectoPy</title>
     <link>https://proyectopy.github.io/tags/</link>
-    <description>Recent content in Tags on ProyectoPy</description>
+    <description>Recent content in Etiquetas on ProyectoPy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 01 Dec 2022 17:03:57 +0100</lastBuildDate><atom:link href="https://proyectopy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
